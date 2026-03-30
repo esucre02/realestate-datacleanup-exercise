@@ -1,0 +1,20 @@
+{
+    "language": "python3",
+    "slug": "realestate-datacleanup-exercise",
+    "title": {
+        "en": "Real Estate Data Cleanup",
+        "es": "Limpieza de Datos Inmobiliarios"
+    },
+    "repository": "https://github.com/4GeeksAcademy/realstate-datacleanup-exercise",
+    "preview": "https://github.com/4GeeksAcademy/realestate-datacleanup-exercise/blob/main/assets/preview.jpeg?raw=true",
+    "description": {
+        "en": "Prepare a real dataset to later train a machine learning model.",
+        "es": "Prepara un conjunto de datos real para entrenar un modelo de aprendizaje automático más adelante."
+    },
+    "duration": 3,
+    "template_url": "self",
+    "difficulty": "easy",
+    "gitpod": true,
+    "projectType": "project",
+    "technologies": ["pandas", "numpy", "opencv", "matplotlib", "ipyleaflet", "scikit-learn", "jupyter notebook", "machine learning", "data science"]
+}
